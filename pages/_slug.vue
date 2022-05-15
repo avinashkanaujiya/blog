@@ -26,7 +26,7 @@
 .article-container{
   max-width: 600px;
   font-size: 20px;
-  text-align: justify;
+  // text-align: justify;
   margin: 20px;
   .nuxt-content {
     ul{
