@@ -34,4 +34,7 @@
     }
   }
 }
+.nuxt-content-highlight {
+  max-width: 600px;
+}
 </style>
