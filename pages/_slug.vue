@@ -39,6 +39,10 @@
       white-space: -o-pre-wrap; //opera 7
       word-wrap: break-word; //internet explorer
     }
+    p{
+      margin: 10px 0 10px 0;
+      text-indent: 40px;
+    }
   }
 }
 .nuxt-content-highlight {
