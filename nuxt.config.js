@@ -1,8 +1,8 @@
 import colors from 'vuetify/es5/util/colors'
-
+import axios from 'axios';
 export default {
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
-  ssr: spa,
+  ssr: true,
 
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -72,7 +72,14 @@ export default {
   build: {
   },
   generate: {
-    dir: 'docs'
+    dir: 'docs',
+    // routes() {
+    //   return axios.get('https://blog.avinashkanaujiya.me/').then(res => {
+    //     console.log(res)
+    //     return res.data.map(post => {
+    //       return post.slug
+    //     })
+    //   })
+    // }
   }
-
 }
