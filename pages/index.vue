@@ -1,5 +1,5 @@
 <template>
-<div class="container">
+  <div class="container">
     <ul>
       <li v-for="article of articles" :key="article.slug">
         <!-- <NuxtLink :to="{ name: 'post-title', params: { title: article.title } }"> -->
