@@ -3,11 +3,12 @@ title: Bought Moneylife Stockletter Subscription
 publish: true
 
 ---
-For a while now, I have been wanting to invest in stock market, but have been overwhelmed by sheer number of options to choose from. 
 
-And investing money in here is now a necessity, as india is a developing economy and has seen huge number of multibaggers to date. And I don't want to miss these opportunities to invest and create wealth.
+I have been obsessed with making more and more, ever since I was a kid, maybe because my family never had enough money to buy things. When I went to college, I realised, there is a upper limit to how much one can earn by doing a job. In that disappointment, I started looking for other things, to make more money.
 
-Hence I decided to shell out some money for this service. And If am able to make profit of around 16k every year on every 50k, buying this service will be worth it.
+Eventually, I came across stock market. It seemed only way to make money, not because it was easy but it didn't require much upfront capital to get started. Read articles after articles and came to a conclusion - Mutual Funds are the best way to participare in Markets.
 
-And people still are afraid of stock market, they say that it is a very dangerous thing. But only thing that is dangerous about it is volatility and it can be handled, by staying long.
+But, even well-intentioned initiatives gets corrupt too soon. I got greedy and started trying my hand at the Markets directly. For this, I thought of buying a advisory type servce to get help from. After some research bought MoneyLife Stockletter Subscription, which costed around 8k. Figured if am able to make 10k+ profits per year, it would be worth it. Only time will tell how beneficial it would be.
 
+**Update:**
+After trying to use it, (pay attention to trying, as I was not able to invest the large amount it requires) I came to a conclusion - Not very useful, for people who have less than 50k to invest per month. I realise now, this is the reason Mutual Funds exist in the first place. How embarrassing, to have understood this trivial thing after shelling 8k !(.
