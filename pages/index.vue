@@ -40,6 +40,7 @@ export default {
   display: flex;
   justify-content: center;
   align-content: center;
+  margin: 10px;
   /* font-family: 'Source Serif Pro', serif; */
 }
 a:link {
