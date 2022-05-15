@@ -1,5 +1,5 @@
 ---
-title: TIL about space-time & it's curvature 
+title: TIL about Space-Time & it's Curvature 
 publish: true
 
 ---

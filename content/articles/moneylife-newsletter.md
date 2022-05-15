@@ -1,5 +1,5 @@
 ---
-title: bought moneylife stockletter subscription
+title: Bought Moneylife Stockletter Subscription
 publish: true
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: object oriented programming - a primer
+title: Object Oriented Programming - A Primer
 
 publish: true
 ---

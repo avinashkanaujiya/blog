@@ -1,5 +1,5 @@
 ---
-title: ted-lasso
+title: Ted Lasso, an Oasis in desert of TV Shows.
 publish: true
 
 ---

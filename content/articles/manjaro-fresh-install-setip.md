@@ -1,5 +1,5 @@
 ---
-title: beginner's setup after fresh install of manjaro
+title: UX Setup for Manjaro Fresh Installation
 publish: true
 
 ---

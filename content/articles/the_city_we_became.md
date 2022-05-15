@@ -1,5 +1,5 @@
 ---
-title: the city we became
+title: The City We Became - Book Review
 publish: true
 
 ---

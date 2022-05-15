@@ -1,5 +1,5 @@
 ---
-title: dashlane to bitwarden, why password managers are important and when
+title: Dashlane to Bitwarden, why password managers are important and when
 publish: true
 ---
 A while ago I wrote about moving away from google passwords to dashlane, this time it is about moving away from dashlane to [bitwarden](https://bitwarden.com/), and hopefully for good this time around.
@@ -15,9 +15,14 @@ In bitwarden, we get the trust & security of open source community, where commun
 And some people even come out and say that using password manager is a security threat in itself. And I am embarrassed to admit that I get tongue tied at those moments, because it is so obvious to use password managers for me.
 
 But let's see what people actually say about it.
-- software has vulnerabilities, can be hacked
-- biometric fingerprints security lock can be override with only fingers of a person who is sleeping, hence easier to access the password manager by third party
-- it creates a single point of failure
+
+
+<ul class="bullets">
+  <li> software has vulnerabilities, can be hacked </li>
+  <li> biometric fingerprints security lock can be override with only fingers of a person who is sleeping, hence easier to access the password manager by third party</li>
+  <li> it creates a single point of failure</li>
+</ul>
+
 
 People who say that software can be hacked, forget that the whole banking system is built on software itself. Everything they do online is built on software.
 

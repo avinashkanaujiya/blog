@@ -14,7 +14,7 @@
     }
   }
 </script>
-<style scoped>
+<style lang='scss'>
 .container{
   /* position: absolute; */
   display: flex;
@@ -27,5 +27,10 @@
   max-width: 600px;
   font-size: 20px;
   text-align: justify;
+  .nuxt-content {
+    ul{
+      margin: 20px 0 20px 60px ;
+    }
+  }
 }
 </style>
