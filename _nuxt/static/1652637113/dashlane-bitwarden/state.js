@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1652637113",layout:"default",error:a,serverRendered:true,routePath:"\u002Fdashlane-bitwarden",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"b1ea40d0"}}}}(null));
