@@ -25,7 +25,7 @@ export default {
 </script>
 <style scoped>
 .container{
-  position: absolute;
+  /* position: absolute; */
   display: flex;
   justify-content: center;
   align-content: center;
