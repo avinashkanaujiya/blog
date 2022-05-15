@@ -1,5 +1,5 @@
 ---
-title: The King KIller Chronicles Series Review
+title: The King Killer Chronicles Series Review
 publish: true
 ---
 
