@@ -27,9 +27,10 @@
   max-width: 600px;
   font-size: 20px;
   text-align: justify;
+  margin: 20px;
   .nuxt-content {
     ul{
-      margin: 20px 0 20px 60px ;
+      margin: 15px 0 15px 60px ;
     }
   }
 }
