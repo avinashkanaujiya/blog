@@ -1,4 +1,4 @@
-name: Build NuxtJS
+name: Build NuxtJS Blog
 
 on:
   push:
