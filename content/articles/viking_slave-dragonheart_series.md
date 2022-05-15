@@ -1,9 +1,6 @@
 ---
 title: Viking Slave
-date: 2020-08-22
-tags:
-  - book-review
-  - posts
+
 publish: false
 ---
 # Review

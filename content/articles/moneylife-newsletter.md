@@ -1,11 +1,7 @@
 ---
 title: bought moneylife stockletter subscription
-tags:
-    - posts
-    - exp
-    - TBD
-date: 2021-10-17
-eleventyExcludeFromCollections: false
+publish: true
+
 ---
 For a while now, I have been wanting to invest in stock market, but have been overwhelmed by sheer number of options to choose from. 
 

@@ -1,9 +1,7 @@
 ---
 title: beginner's setup after fresh install of manjaro
-tags:
-  - posts
-  - manjaro-setup
-# layout: layouts/latest.liquid
+publish: true
+
 ---
 after you do a clean install of manjaro, you would like to make few change to get going.
 

@@ -1,8 +1,7 @@
 ---
 title: do what you can't do
-tags: [inspiration, posts]
-date: 
-eleventyExcludeFromCollections: true
+publish: true
+
 ---
 Best way to witness growth is to do what you can't do.
 

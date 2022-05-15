@@ -1,10 +1,6 @@
 ---
 title: dashlane to bitwarden, why password managers are important and when
-tags:
-  - posts
-  - password-managers
-date: 2021-10-16
-eleventyExcludeFromCollections: false
+publish: true
 ---
 A while ago I wrote about moving away from google passwords to dashlane, this time it is about moving away from dashlane to [bitwarden](https://bitwarden.com/), and hopefully for good this time around.
 

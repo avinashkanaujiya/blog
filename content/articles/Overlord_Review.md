@@ -1,9 +1,7 @@
 ---
 title: overlord review
-tags:
-    - posts
-    - tv-show-review
-stars: 7
+publish: true
+
 
 ---
 Overlord is based in a MMORPG game. It starts with a scene where game server is being shut down, after popularity of game has declined over the years. And their is a guy who is waiting for it to happen and spending last minute in game, remenising about there time spent in game with his guild mates. One by one all his mates leave the game, thinking game server will be definitely shut down. But as is the case with all the anime, protoganist gets locked into the game and he has no way of getting out. Then begins his journey in game for real...

@@ -1,8 +1,6 @@
 ---
-title: 
-tags: [posts,]
-date: 
-eleventyExcludeFromCollections: true
+title: How to write review
+publish: false
 ---
 
 - [ ] Plan the post

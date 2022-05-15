@@ -1,8 +1,6 @@
 ---
 title: google passwords to dashlane
-tags:
-    - posts
-    - password-managers
+publish: false
 ---
 
 So few days ago, I finally made the switch from [Google Passwords] to [Dashlane]. Why? Because giving the task to a master is always better than having it done by a jack of all trades. Although, it does leave a little hole in pocket. But it is worth the peace of mind.

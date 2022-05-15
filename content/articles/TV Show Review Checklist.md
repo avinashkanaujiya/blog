@@ -1,8 +1,7 @@
 ---
-title: 
-tags: [posts,]
-date: 
-eleventyExcludeFromCollections: true
+title: TV Show Review Writing Checklist
+publish: false
+
 ---
 - [ ] Summarize the Plot
 	- [ ] No Spoilers

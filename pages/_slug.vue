@@ -20,9 +20,12 @@
   display: flex;
   justify-content: center;
   align-content: center;
+  /* font-family: 'Roboto', sans-serif; */
+  font-weight: 400;
 }
 .article-container{
   max-width: 600px;
   font-size: 20px;
+  text-align: justify;
 }
 </style>

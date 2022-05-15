@@ -1,8 +1,6 @@
 ---
 title: object oriented programming - a primer
-date: 2020-07-10
-tags:
-  - posts
+
 publish: true
 ---
 

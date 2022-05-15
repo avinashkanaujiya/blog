@@ -1,10 +1,7 @@
 ---
-title: ted lasso
-tags:
-  - posts
-  - tv-show-review
-date: 2021-10-17
-eleventyExcludeFromCollections: true
+title: ted-lasso
+publish: true
+
 ---
 
 The show revolves around a guy named Ted Lasso, he was a soccer coach
