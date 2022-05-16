@@ -33,9 +33,9 @@ body{
   // text-align: justify;
   // margin: 20px;
   .nuxt-content {
-    ul{
-      margin: 15px 0 15px 60px ;
-    }
+    // ul{
+    //   margin: 15px 0 15px 60px ;
+    // }
     pre {
       white-space: pre-wrap; //css3
       white-space: moz-pre-wrap; //firefox
