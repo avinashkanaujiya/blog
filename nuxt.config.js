@@ -47,8 +47,28 @@ export default {
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: ['@nuxt/content'],
-
+  // modules: ['@nuxt/content'],
+  modules: [
+    '@nuxtjs/google-gtag', '@nuxt/content'
+  ],
+  'google-gtag': {
+    id: 'UA-XXXX-XX',
+    config: {
+      anonymize_ip: true, // anonymize IP
+      send_page_view: false, // might be necessary to avoid duplicated page track on page reload
+      linker: {
+        domains: ['domain.com','domain.org']
+      }
+    },
+    debug: true, // enable to track in dev mode
+    disableAutoPageTrack: false, // disable if you don't want to track each page route with router.afterEach(...).
+    additionalAccounts: [{
+      id: 'AW-XXXX-XX', // required if you are adding additional accounts
+      config: {
+        send_page_view: false // optional configurations
+      }
+    }]
+  },
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
   // vuetify: {
   //   customVariables: ['~/assets/variables.scss'],

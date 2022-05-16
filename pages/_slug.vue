@@ -32,6 +32,7 @@ body{
   font-size: 18px;
   // text-align: justify;
   // margin: 20px;
+  line-height: 1.3rem;
   .nuxt-content {
     // ul{
     //   margin: 15px 0 15px 60px ;
