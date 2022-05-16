@@ -45,7 +45,7 @@ body{
     }
     p{
       margin: 10px 0 10px 0;
-      text-indent: 40px;
+      // text-indent: 40px;
     }
   }
 }
