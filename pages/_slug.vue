@@ -15,6 +15,9 @@
   }
 </script>
 <style lang='scss' scoped>
+body{
+  background-color: #fffff8;
+}
 .container{
   /* position: absolute; */
   /* font-family: 'Roboto', sans-serif; */
@@ -23,7 +26,6 @@
   align-content: center;
   font-weight: 400;
   color: #111111;
-  background-color: #fffff8;
 }
 .article-container{
   max-width: 600px;
