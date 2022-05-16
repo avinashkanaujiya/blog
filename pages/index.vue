@@ -37,6 +37,9 @@ export default {
 };
 </script>
 <style lang='scss' scoped>
+body{
+  background-color: #fffff8;
+}
 .container {
   // position: absolute;
   // width: 100%;
@@ -44,7 +47,6 @@ export default {
   justify-content: center;
   align-content: center;
   // padding: 5px 10px 10px 0 ;
-  background-color: #fffff8;
   // font-family: 'Source Serif Pro', serif;
 }
 a:link {
