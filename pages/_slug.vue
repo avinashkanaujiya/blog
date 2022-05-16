@@ -30,7 +30,7 @@ body{
 }
 .article-container{
   max-width: 600px;
-  font-size: 18px;
+  font-size: 16px;
   // text-align: justify;
   padding: 10px;
   line-height: 1.5rem;
