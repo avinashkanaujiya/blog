@@ -14,20 +14,22 @@
     }
   }
 </script>
-<style lang='scss'>
+<style lang='scss' scoped>
 .container{
   /* position: absolute; */
-  display: flex;
+  /* font-family: 'Roboto', sans-serif; */
+    display: flex;
   justify-content: center;
   align-content: center;
-  /* font-family: 'Roboto', sans-serif; */
   font-weight: 400;
+  color: #111111;
+  background-color: #fffff8;
 }
 .article-container{
   max-width: 600px;
   font-size: 20px;
   // text-align: justify;
-  margin: 20px;
+  // margin: 20px;
   .nuxt-content {
     ul{
       margin: 15px 0 15px 60px ;
