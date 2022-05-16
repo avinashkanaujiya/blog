@@ -27,7 +27,7 @@
 }
 .article-container{
   max-width: 600px;
-  font-size: 20px;
+  font-size: 18px;
   // text-align: justify;
   // margin: 20px;
   .nuxt-content {
