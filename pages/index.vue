@@ -65,6 +65,7 @@ a:visited {
   display: flex;
   max-width: 600px;
   min-height: 50px;
+  line-height: 1.5rem;
   align-items: center;
   .date-label {
     margin: 0 0 20px 10px;
