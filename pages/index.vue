@@ -64,7 +64,7 @@ a:visited {
 .link-container {
   display: flex;
   max-width: 600px;
-  height: 50px;
+  min-height: 50px;
   align-items: center;
   .date-label {
     margin: 0 0 20px 10px;
