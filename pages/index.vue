@@ -43,6 +43,8 @@ body{
 .container {
   // position: absolute;
   // width: 100%;
+    font-family : "Times New Roman";
+
   display: flex;
   justify-content: center;
   align-content: center;
