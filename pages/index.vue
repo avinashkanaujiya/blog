@@ -43,7 +43,7 @@ export default {
   display: flex;
   justify-content: center;
   align-content: center;
-  margin: 20px;
+  // padding: 5px 10px 10px 0 ;
   background-color: #fffff8;
   // font-family: 'Source Serif Pro', serif;
 }
