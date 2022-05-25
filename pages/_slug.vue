@@ -29,7 +29,7 @@ body{
   color: #111111;
 }
 .article-container{
-  max-width: 600px;
+  width: 700px;
   font-size: 16px;
   // text-align: justify;
   padding: 10px;

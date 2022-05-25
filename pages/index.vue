@@ -12,7 +12,6 @@
 export default {
   async asyncData({ $content }) {
     const articles = await $content("articles")
-      .where({ publish: !false })
       .sortBy('updatedAt', 'desc')
       .fetch();
 
