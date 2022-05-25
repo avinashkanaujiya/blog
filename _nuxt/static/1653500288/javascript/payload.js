@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/javascript", (function(a){return {data:[{article:{slug:"javascript",toc:[],body:{type:"root",children:[]},dir:"\u002Farticles",path:"\u002Farticles\u002Fjavascript",extension:".md",createdAt:a,updatedAt:a}}],fetch:{},mutations:void 0}}("2022-05-25T17:37:37.482Z")));

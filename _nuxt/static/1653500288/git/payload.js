@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/git", (function(a){return {data:[{article:{slug:"git",toc:[],body:{type:"root",children:[]},dir:"\u002Farticles",path:"\u002Farticles\u002Fgit",extension:".md",createdAt:a,updatedAt:a}}],fetch:{},mutations:void 0}}("2022-05-25T17:37:37.482Z")));

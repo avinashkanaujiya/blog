@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/", {data:[{articles:[]}],fetch:{},mutations:void 0});
