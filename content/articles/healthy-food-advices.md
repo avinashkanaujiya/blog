@@ -9,7 +9,7 @@ Human body needs three kinds of nutrients
 - Carbs - for energy
 - Minerals & Vitamins - for protection
 
-#### Diet Suggestions
+### General Dietary Suggestions
 
 - Unsaturated Fats like Fish, Avocado, Nuts, Sunflower etc
 - Moderate salt intake to 5gm per day
@@ -17,9 +17,9 @@ Human body needs three kinds of nutrients
 - Fibrous Food like Whole Grains, Veggies, Fruits, Nuts, Legumes
   - atleast 400gm of fruits & veggies
   - No starchy items like potatoes etc
-- No trans or saturated fats like ghee, butter etc   [Healthy Diet] 
+- No trans or saturated fats like ghee, butter etc  
 
-#### Food Items Recommendations
+### General Food Items Recommendations
 
 | Energy Foods        | Body Building Foods | Protective Foods    |
 | ------------------- | ------------------- | ------------------- |
@@ -31,16 +31,30 @@ Human body needs three kinds of nutrients
 | Oilseeds            | Fish                | Flesh Foods         |
 | Sugar               | Poultry             |                     |
 
-#### Checklist
+### Specialized Food Recommendations
 
-- [ ] Nuts - akmonds
-- [ ] Oilseeds - shengdana, soya chunks
-- [ ] Milk & Products
-- [ ] Eggs
-- [ ] Fruits
-- [ ] Fish
-- [ ] Legumes
+#### Hair Food
+
+Consume food that are high in Vitamin B2, especially Biotin.
+
+#### Beard Food
+
+- Cinnamon
+- Pumpkin Seeds
+
+### Checklist
+
+- Nuts - akmonds
+- Oilseeds - shengdana, soya chunks
+- Milk & Products
+- Eggs
+- Fruits
+- Fish
+- Legumes
 
 
 
-[Healthy Diet]: https://www.nhp.gov.in/healthlyliving/healthy-diet	"test"
+### Readings
+
+1. https://www.nhp.gov.in/healthlyliving/healthy-diet
+
