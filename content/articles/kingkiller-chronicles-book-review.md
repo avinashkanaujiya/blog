@@ -1,6 +1,6 @@
 ---
 title: The King Killer Chronicles Series Review
-publish: true
+updatedAt: 2022-05-16
 ---
 
 Read this incomplete series a while ago, didn't write a review then, but this book series is so good. It would be a shame not to write about it. I don't remember much but still remember the feeling that I had while reading the book. It was a peaceful feeling, certainly not associated with thriller fiction books. 

@@ -1,6 +1,6 @@
 ---
 title: Reading in Progress
-publish: true
+updatedAt: 2022-05-15
 ---
 
 * Anti-Fragile by Nassim Taleb

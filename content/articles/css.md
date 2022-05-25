@@ -1,6 +1,6 @@
 ---
 title: CSS
-publish: true
+updatedAt: 2022-05-15
 ---
 
 To do centering using flex

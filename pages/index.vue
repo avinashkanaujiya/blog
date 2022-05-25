@@ -1,19 +1,10 @@
 <template>
   <div class="container">
-    <ul>
-      <li v-for="article of articles" :key="article.slug">
-        <div class="link-container">
+      <div class="link-container" v-for="article of articles" :key="article.slug">
           <NuxtLink :to="{ name: 'slug', params: { slug: article.slug } }">
-            <!-- <NuxtLink :to="{ name: 'post-slug', params: { slug: article.slug } }"> -->
-            <div>
-              <h3>{{ article.title }}</h3>
-            </div>
-            <br />
+              <div>{{ article.title }}</div>
           </NuxtLink>
-          <p class="date-label">{{ formatDate(article.updatedAt)  }}</p>
-        </div>
-      </li>
-    </ul>
+      </div>
   </div>
 </template>
 
@@ -39,17 +30,18 @@ export default {
 <style lang='scss' scoped>
 body{
   background-color: #fffff8;
+  box-sizing:border-box;
+  // display: flex;
 }
 .container {
-  // position: absolute;
-  // width: 100%;
-    font-family : "Times New Roman";
-
+  position: absolute;
+  font-family : "Times New Roman";
   display: flex;
-  justify-content: center;
-  align-content: center;
-  // padding: 5px 10px 10px 0 ;
-  // font-family: 'Source Serif Pro', serif;
+  width: 100vw;
+  // justify-content: center;
+  // align-content: center;
+
+  flex-direction: column;
 }
 a:link {
   color: #111111;
@@ -61,25 +53,9 @@ a:visited {
   background-color: transparent;
   /* text-decoration: none; */
 }
-.link-container {
-  display: flex;
+.link-container{
+  // position: relative;
+  padding: 20px 0 0 0;
   max-width: 600px;
-  min-height: 50px;
-  line-height: 1.5rem;
-  align-items: center;
-  .date-label {
-    margin: 0 0 20px 10px;
-    padding: 5px 5px 5px 5px;
-    background-color: rgb(179, 226, 253);
-    // color: rgb(0, 0, 0);
-    color: #111111;
-    text-decoration: none;
-    border-radius: 10px;
-    font-size: 14px;
-    // margin-bottom: 15px;
-  }
-}
-li::marker {
-  color: rgb(0, 60, 255); /* Change the color */
 }
 </style>

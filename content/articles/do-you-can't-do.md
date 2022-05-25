@@ -1,7 +1,6 @@
 ---
 title: Do what you can't do
-publish: true
-
+updatedAt: 2022-05-15
 ---
 Best way to witness growth is to do what you can't do.
 
@@ -14,6 +13,7 @@ Here are list of things that I can't do or don't know how to do it.
 	- study DSA for getting a good high paying job
 	- and more
 	
+
 I am hoping that coming month or year, I might knock off some of things mentioned above. I hope I do.
 
 Write me about things that you can't do or people say you can't do. And what you plan on doing about it.

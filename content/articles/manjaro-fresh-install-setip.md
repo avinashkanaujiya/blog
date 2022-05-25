@@ -1,7 +1,6 @@
 ---
 title: UX Setup for Manjaro Fresh Installation
-publish: true
-
+updatedAt: 2022-05-15
 ---
 after you do a clean install of manjaro, you would like to make few change to get going.
 

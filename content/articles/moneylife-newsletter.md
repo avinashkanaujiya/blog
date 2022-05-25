@@ -1,7 +1,6 @@
 ---
 title: Bought Moneylife Stockletter Subscription
-publish: true
-
+updatedAt: 2022-05-15
 ---
 
 I have been obsessed with making more and more, ever since I was a kid, maybe because my family never had enough money to buy things. When I went to college, I realised, there is a upper limit to how much one can earn by doing a job. In that disappointment, I started looking for other things, to make more money.

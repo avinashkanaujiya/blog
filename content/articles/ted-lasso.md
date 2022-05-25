@@ -1,8 +1,8 @@
 ---
 title: Ted Lasso, an Oasis in desert of dry Shows.
-publish: true
 totalSeason: Ongoing
 currentSeason: 3 
+updatedAt: 2022-05-16
 ---
 
 A Comedy cum Underdog Show. What's not to like here. And I can't say enough, I love shows with british accents. Just can't get enough of them.
