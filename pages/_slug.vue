@@ -49,6 +49,9 @@ body{
       margin: 10px 0 10px 0;
       // text-indent: 40px;
     }
+    table {
+      overflow:"auto";
+    }
   }
 }
 .nuxt-content-highlight {
