@@ -30,7 +30,7 @@ body{
 }
 .article-container{
   width: 700px;
-  font-size: 16px;
+  font-size: 14px;
   // text-align: justify;
   padding: 10px;
   line-height: 1.5rem;
