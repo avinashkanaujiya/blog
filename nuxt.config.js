@@ -52,7 +52,7 @@ export default {
     '@nuxtjs/google-gtag', '@nuxt/content'
   ],
   'google-gtag': {
-    id: 'UA-XXXX-XX',
+    id: 'G-Z1JM53LX5S',
     config: {
       anonymize_ip: true, // anonymize IP
       send_page_view: false, // might be necessary to avoid duplicated page track on page reload
@@ -60,14 +60,14 @@ export default {
         domains: ['domain.com','domain.org']
       }
     },
-    debug: true, // enable to track in dev mode
+    debug: false, // enable to track in dev mode
     disableAutoPageTrack: false, // disable if you don't want to track each page route with router.afterEach(...).
-    additionalAccounts: [{
-      id: 'AW-XXXX-XX', // required if you are adding additional accounts
-      config: {
-        send_page_view: false // optional configurations
-      }
-    }]
+    // additionalAccounts: [{
+    //   id: 'AW-XXXX-XX', // required if you are adding additional accounts
+    //   config: {
+    //     send_page_view: false // optional configurations
+    //   }
+    // }]
   },
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
   // vuetify: {
