@@ -9,8 +9,8 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - blog',
-    title: 'opinionated',
+    titleTemplate: '%s',
+    title: 'logging away',
     htmlAttrs: {
       lang: 'en'
     },
