@@ -33,7 +33,7 @@ body{
   font-size: 14px;
   // text-align: justify;
   padding: 10px;
-  line-height: 1.5rem;
+  line-height: 1.2rem;
   .nuxt-content {
     // ul{
     //   margin: 15px 0 15px 60px ;
