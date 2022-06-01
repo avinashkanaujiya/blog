@@ -28,19 +28,22 @@ export default {
 };
 </script>
 <style lang='scss' scoped>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+}
 body{
   background-color: #fffff8;
-  box-sizing:border-box;
   // display: flex;
 }
 .container {
-  position: absolute;
+  // position: absolute;
   font-family : "Times New Roman";
   display: flex;
-  width: 100vw;
-  // justify-content: center;
-  // align-content: center;
-
+  // width: 100vw;
+  justify-content: center;
+  align-content: center;
   flex-direction: column;
 }
 a:link {
@@ -56,6 +59,11 @@ a:visited {
 .link-container{
   // position: relative;
   padding: 20px 0 0 0;
-  max-width: 600px;
+  // max-width: 600px;
+  display: flex;
+  // width: 100vw;
+  // justify-content: center;
+  // align-content: center;
+  // flex-direction: column;
 }
 </style>
