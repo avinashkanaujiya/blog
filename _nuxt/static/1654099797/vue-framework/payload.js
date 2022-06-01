@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/vue-framework", {data:[{article:{slug:"vue-framework",title:"Vue",updatedAt:"2022-05-15T00:00:00.000Z",publish:true,toc:[],body:{type:"root",children:[]},dir:"\u002Farticles",path:"\u002Farticles\u002Fvue-framework",extension:".md",createdAt:"2022-06-01T16:09:24.471Z"}}],fetch:{},mutations:void 0});
