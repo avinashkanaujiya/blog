@@ -1,9 +1,13 @@
 ---
 title: CSS
 updatedAt: 2022-05-15
+publish: true
 ---
 
+#### General
+
 To do centering using flex
+
 ```css
 display: flex;
 justify-content: center;

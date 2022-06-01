@@ -1,6 +1,7 @@
 ---
 title: TIL about Space-Time & it's Curvature 
 updatedAt: 2022-05-15
+publish: false
 ---
 
 <ul>

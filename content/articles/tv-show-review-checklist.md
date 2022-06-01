@@ -1,7 +1,7 @@
 ---
 title: TV Show Review Writing Checklist
 publish: false
-
+publish: false
 ---
 - [ ] Summarize the Plot
 	- [ ] No Spoilers

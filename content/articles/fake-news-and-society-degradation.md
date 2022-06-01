@@ -1,6 +1,7 @@
 ---
 title: Fakenews & Issues
 updatedAt: 2020-10-10
+publish: false
 ---
 
 > It is a living document… It will be updated as & when I deem fit. It is so, because my thoughts, view and opinion changes overtime… as I read and learn about things.

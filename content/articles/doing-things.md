@@ -1,6 +1,7 @@
 ---
 title: Doing Things for it's Own Sake
 updatedAt: 2022-05-23
+publish: false
 ---
 
 Consciousness pollutes things.

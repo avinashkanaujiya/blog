@@ -1,6 +1,7 @@
 ---
 title: Rust & Cargo
 updatedAt: 2022-05-28
+publish: true
 ---
 
 [Error: No Override and No Default Toolchain]

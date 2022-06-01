@@ -1,6 +1,7 @@
 ---
 title: Git
 updatedAt: 2022-05-15
+publish: true
 ---
 
 Wondering how to move back a commit or few, since you messed up pretty good?

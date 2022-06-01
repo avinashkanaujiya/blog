@@ -1,8 +1,9 @@
 ---
-title: Do what you can't do
+title: Growth Mindset
 updatedAt: 2022-05-15
+publish: false
 ---
-Best way to witness growth is to do what you can't do.
+Best way to witness growth is to do what you can't do, yet.
 
 Above line is what I learned today, and it is mind blowing, I mean everybody knows it inside, but never acknowledge it because it causes them to feel uncomfortable or forces them to come out of their comfort zones.
 
@@ -10,7 +11,6 @@ Here are list of things that I can't do or don't know how to do it.
 	- get fit (really!!!!)
 	- get slim (yup both are totally different things)
 	- start to blog daily (yes writing a blog post once in a blue moon is cool, but doing it daily is awfully difficult)
-	- study DSA for getting a good high paying job
 	- and more
 	
 

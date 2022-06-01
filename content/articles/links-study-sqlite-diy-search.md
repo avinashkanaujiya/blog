@@ -1,6 +1,7 @@
 ---
 title: Links on study problems, why sqlite is awesome, DIY search 
 updatedAt: 2022-05-15
+publish: true
 ---
 
 - How a problem can be twisted or expanded to dive into various directions of software engineering.
